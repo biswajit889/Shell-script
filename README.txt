@@ -7,4 +7,4 @@ burpsuite is a web pentration testing tools so be carefull with that and use
 carefully..
 
 
-you can type burps to open after installion.
+you can type burps to open, after installation.
