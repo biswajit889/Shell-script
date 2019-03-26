@@ -1,6 +1,8 @@
 use this script only root user this script made by biswajit.
 
-only terminal user use this script only burps.
+only terminal user use this script burps.
+
+use super user mode like root user :- sudo su.
 
 give executable permission like :- chmod +x install.sh or chmod 777 install.sh
 
