@@ -9,6 +9,7 @@ cp burps.sh /opt/
 cd /opt/
 mkdir burp
 echo download burp
+cd /opt/burp/
 wget https://portswigger.net/burp/releases/download?product=community&version=1.7.36&type=jar 
 cp /opt/burps.sh /opt/burp/
 sudo update-alternatives --install /usr/bin/burps burps /opt/burp/burps.sh 1
